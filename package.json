@@ -36,6 +36,15 @@
   ],
   "author": "HieuBDA",
   "license": "MIT",
+  "homepage": "https://github.com/hieubda/ckeditor5-with-html-embed",
+  "bugs": "https://github.com/ckeditor/ckeditor5/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hieubda/ckeditor5-with-html-embed.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/hieubda"
+  },
   "peerDependencies": {},
   "devDependencies": {
     "@ckeditor/ckeditor5-adapter-ckfinder": "^24.0.0",
