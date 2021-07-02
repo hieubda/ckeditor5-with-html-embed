@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "The customize full features for classic editor build of CKEditor 5 – the best browser-based rich text editor. Thanks for CKEditor.",
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://npm.pkg.github.com/hieubda"
   },
   "main": "./lib/ckeditor.js",
   "scripts": {
@@ -41,9 +42,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/hieubda/ckeditor5-with-html-embed.git"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/hieubda"
   },
   "peerDependencies": {},
   "devDependencies": {
