@@ -1,6 +1,6 @@
 {
-  "name": "ckeditor5-build-full",
-  "version": "2.0.0-beta.0",
+  "name": "ckeditor5-build-full-with-html-embed",
+  "version": "1.0.0",
   "description": "The customize full features for classic editor build of CKEditor 5 – the best browser-based rich text editor. Thanks for CKEditor.",
   "publishConfig": {
     "access": "public"
@@ -34,7 +34,7 @@
     "real-time",
     "framework"
   ],
-  "author": "TMH-SE",
+  "author": "HieuBDA",
   "license": "MIT",
   "peerDependencies": {},
   "devDependencies": {
@@ -52,10 +52,12 @@
     "@ckeditor/ckeditor5-easy-image": "^24.0.0",
     "@ckeditor/ckeditor5-editor-classic": "^24.0.0",
     "@ckeditor/ckeditor5-essentials": "^24.0.0",
+    "@ckeditor/ckeditor5-find-and-replace": "^28.0.1",
     "@ckeditor/ckeditor5-font": "^24.0.0",
     "@ckeditor/ckeditor5-heading": "^24.0.0",
     "@ckeditor/ckeditor5-highlight": "^24.0.0",
     "@ckeditor/ckeditor5-horizontal-line": "^24.0.0",
+    "@ckeditor/ckeditor5-html-embed": "^28.0.0",
     "@ckeditor/ckeditor5-image": "^24.0.0",
     "@ckeditor/ckeditor5-indent": "^24.0.0",
     "@ckeditor/ckeditor5-link": "^24.0.0",
