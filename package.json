@@ -1,5 +1,5 @@
 {
-  "name": "ckeditor5-build-full-with-html-embed",
+  "name": "ckeditor5-with-html-embed",
   "version": "1.0.0",
   "description": "The customize full features for classic editor build of CKEditor 5 – the best browser-based rich text editor. Thanks for CKEditor.",
   "publishConfig": {
